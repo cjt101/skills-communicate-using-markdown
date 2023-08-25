@@ -4,3 +4,6 @@
 ``` c++
 int my_int = 213;
 ```
+- [ ] Learn GitHub
+- [X] A complete item
+- [ ] Not a complete item 😔
